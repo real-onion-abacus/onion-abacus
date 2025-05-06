@@ -20,11 +20,11 @@ Accessing **Abacus Market** requires careful attention to detail to ensure your 
    - Always use the official **Abacus Onion link** or a verified mirror link to avoid phishing scams.  
    - Double-check the URL to ensure it’s authentic before proceeding.  
 
-**Official Onion Link:** [http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion](http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion)  
+**Official Onion Link:** [http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion](http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion)  
 
-[<img src="/media/bitmap.webp" width="200">](http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion)
+[<img src="/skins/launchpad.webp" width="200">](http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion)
 
-<a href="http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion"><img src="/media/surface.webp" alt="Abacus Preview" style="max-width: 100%;"></a>
+<a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/skins/light.webp" alt="Abacus Preview" style="max-width: 100%;"></a>
 
 ### 2. **Enter Your Login Credentials**  
    - On the **Abacus login** page, enter your username and password.  
@@ -72,5 +72,5 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 **Disclaimer:** This article is for educational purposes only. We do not endorse or encourage any illegal activities. Always comply with the laws and regulations in your jurisdiction.  
 
-<a href="http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion"><img src="/media/glimpse.webp" alt="Abacus Login" style="max-width: 100%;"></a>  
-<a href="http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion"><img src="/media/short.webp" alt="Abacus Register" style="max-width: 100%;"></a>
+<a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/skins/form.webp" alt="Abacus Login" style="max-width: 100%;"></a>  
+<a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/skins/piece.webp" alt="Abacus Register" style="max-width: 100%;"></a>
